@@ -1,0 +1,4 @@
+name: form
+description: This is created for practice on how to create a module in drupal 8
+type: module
+core: 8.x

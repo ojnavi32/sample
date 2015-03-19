@@ -1,0 +1,7 @@
+third.page1:
+  path: /page1
+  defaults:
+    _controller: Drupal\sample\Controller\Page1::ShowPage # Controlller -> module/third/src/Controller/Page3.php
+    _title: 'A page of sample module'
+  requirements:
+    _permission: 'access content'

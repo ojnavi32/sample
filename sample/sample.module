@@ -1,0 +1,12 @@
+<?php
+
+function sample_theme()
+{
+	return [
+		'Page1' => [
+			'variables' => [ 'title' => null, 'description' => null ]
+			,
+			'template' => 'Page1'
+		],
+	];	
+}
