@@ -1,0 +1,4 @@
+name: form_test
+description: This is my third module.
+type: module
+core: 8.x

@@ -1,0 +1,11 @@
+<?php
+
+
+function form_test_theme() {
+    return [
+        'test1' => [
+            'variables' => [ 'title' => null, 'form'=>null ],
+            'template' => 'test1'
+        ],
+    ];
+}

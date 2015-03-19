@@ -1,0 +1,7 @@
+third.test1:
+  path: /test1
+  defaults:
+    _controller: Drupal\form_test\Controller\test1::ShowPage
+    _title: Controller test1 showing working with a form
+  requirements:
+    _permission: 'access content'
